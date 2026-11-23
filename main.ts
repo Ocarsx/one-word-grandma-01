@@ -8,7 +8,7 @@
 // The word: "thingamajig" — the classic grandma word for a gadget she cannot
 // name. Warm, a little baffled, instantly readable, and tied to machines:
 // the thing she points at when the grandkids show her their new device.
-// Twelve letters, one word, no punctuation tricks — exactly what the judge
+// Eleven letters, one word, no punctuation tricks — exactly what the judge
 // brief asks a grandma to text.
 
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
